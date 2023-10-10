@@ -109,8 +109,8 @@ object containing a question and a collection of answers (called “choices”)
 
 ## RESULTS OF THE LEVEL 7 ACADEMIC TEST
 
-your api has passed all the tests, as was shown in the assessment of the level 7 test
-Thank you very much for your collaboration and your confidence in us. 
+your api has passed all the tests, as was shown in the assessment of the level 7 test,
+Thank you very much for your collaboration and your confidence in us.  
 Larson-API has been selected as one of Academia's top 5 best-performing api.
 It wasn't easy for you to do it in such a hurry under such extraordinary pressure.
 You can see the tests passed by the great machine performance examiner 
