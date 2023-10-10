@@ -123,6 +123,6 @@ and professional](https://en.wikipedia.org/wiki/Linus_Torvalds#Life_and_career)
 
 ![Larson-Kapita-API](apimg/ap1.png) ![Larson-Kapita-API](apimg/ap2.png) ![Larson-Kapita-API](apimg/ap3.png) ![Larson-Kapita-API](apimg/api4.png)
 
-#### More Information
+#### More Informations
 
 [A lot of information will be available 10 hours after you have accepted the invitation we sent you by email.](https://github.com/Academia-API/Larson_Kapita_API/settings/access)
