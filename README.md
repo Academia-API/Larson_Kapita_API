@@ -107,7 +107,7 @@ object containing a question and a collection of answers (called “choices”)
             }
 ```
 
-RESULTS OF THE LEVEL 7 ACADEMIC TEST
+## RESULTS OF THE LEVEL 7 ACADEMIC TEST
 
 your api has passed all the tests, as was shown in the assessment of the level 7 test
 Thank you very much for your collaboration and your confidence in us. 
@@ -118,3 +118,7 @@ You can see the tests passed by the great machine performance examiner
 [The examination is a special model introduced by Louis Torvald for an examination with an algorithmic character.
 and machine performance in real time, the academy has adopted this method for rapid assessment
 and professional](https://en.wikipedia.org/wiki/Linus_Torvalds#Life_and_career)
+
+### All Evaluation GRAPH
+
+[Larson-Kapita-API](apimg/ap1.png)[Larson-Kapita-API](apimg/ap2.png)[Larson-Kapita-API](apimg/ap3.png)[Larson-Kapita-API](apimg/api4.png)
