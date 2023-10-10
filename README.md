@@ -121,4 +121,4 @@ and professional](https://en.wikipedia.org/wiki/Linus_Torvalds#Life_and_career)
 
 ### All Evaluation GRAPH
 
-[Larson-Kapita-API](apimg/ap1.png)[Larson-Kapita-API](apimg/ap2.png)[Larson-Kapita-API](apimg/ap3.png)[Larson-Kapita-API](apimg/api4.png)
+![Larson-Kapita-API](apimg/ap1.png) ![Larson-Kapita-API](apimg/ap2.png) ![Larson-Kapita-API](apimg/ap3.png) ![Larson-Kapita-API](apimg/api4.png)
