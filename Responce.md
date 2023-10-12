@@ -6,19 +6,19 @@
 #### now let's take a look at the application that your api provides for the academia programme and the additional application #### functions.
 
 ### Mail service
-![Mail Service](apimg/i1.png) 
+![Mail Service](Reserved/i1.png) 
 
 ### kDrive
-![kDrive](apimg/i2.png) 
+![kDrive](Reserved/i2.png) 
 
 ### Site Creator
-![Site Creator](apimg/i3.png) 
+![Site Creator](Reserved/i3.png) 
 
 ### Server Integration
-![Server Integration](apimg/i4.png)
+![Server Integration](Reserved/i4.png)
 
 ### AI dataset manupilation
-![AI dataset manupilation](apimg/i5.png)
+![AI dataset manupilation](Reserved/i5.png)
 
 
 ## Bundled Extensions
